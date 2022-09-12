@@ -1,0 +1,29 @@
+Averages and measures of central location
+
+mean()
+fmean()
+geometric_mean()
+harmonic_mean()
+median()
+median_low()
+median_high()
+median_grouped()
+mode()
+multimode()
+quartiles()
+
+
+Measures of spread
+
+pstdev()
+pvariance()
+stdev()
+variance()
+range()
+
+
+Plots
+
+boxplots
+stemleaf plots
+dotplots
